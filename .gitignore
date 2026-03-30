@@ -1,0 +1,14 @@
+# Intermediate files
+cal_events.json
+oncology_cal.json
+tbmt_events.json
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+
+# Environment
+.env
