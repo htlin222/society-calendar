@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.taiwanoncologysociety.org.tw)",
+      "Bash(curl -s -L -H 'User-Agent: Mozilla/5.0' 'https://www.taiwanoncologysociety.org.tw/ehc-tos/s/w/edu/schedule/schedule1?eduIn=0')",
+      "Bash(curl -s -L -H 'User-Agent: Mozilla/5.0' 'https://www.taiwanoncologysociety.org.tw/ehc-tos/s/w/edu/scheduleInfo1/schedule1/7536')"
+    ]
+  }
+}
