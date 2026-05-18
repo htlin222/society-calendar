@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//IDSROC//Infectious Diseases Society Events//ZH
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:感染症醫學會
+X-WR-TIMEZONE:Asia/Taipei
+BEGIN:VTIMEZONE
+TZID:Asia/Taipei
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:CST
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:4eab05b6-3b88-5df4-943b-45b8f8a7a62e
+DTSTAMP:20260518T051543Z
+SUMMARY:115年春季學術演講會
+LOCATION:台南成大醫學院
+DESCRIPTION:主辦單位：成大醫院、臺灣醫學會\n類別：B類\n
+ 積分：2分\n費用：不收費\n學會頁面：https://www.idsroc.org.t
+ w/active/side_info.asp?id=18528&side=in\n課程表：https://www.idsroc.or
+ g.tw/DB/Edu/18528.pdf?v=2026518131519\n聯絡人：高麗華 (kao@fma.org.
+ tw)
+DTSTART;TZID=Asia/Taipei:20260523T130000
+DTEND;TZID=Asia/Taipei:20260524T172000
+END:VEVENT
+BEGIN:VEVENT
+UID:37b92829-daff-5da5-96f5-bfb91089a75f
+DTSTAMP:20260518T051543Z
+SUMMARY:34th Taiwan ID Forum
+LOCATION:台北喜來登飯店B1彩逸廳
+DESCRIPTION:主辦單位：感染症醫學會\n類別：A類\n積分：6分
+ \n費用：收費\n學會頁面：https://www.idsroc.org.tw/active/side_in
+ fo.asp?id=18577&side=in\n課程表：https://www.idsroc.org.tw/DB/Edu/1857
+ 7.pdf?v=2026518131514\n聯絡人：岳薇 (ids.roc@msa.hinet.net)
+DTSTART;TZID=Asia/Taipei:20260613T093000
+DTEND;TZID=Asia/Taipei:20260613T163000
+END:VEVENT
+END:VCALENDAR
